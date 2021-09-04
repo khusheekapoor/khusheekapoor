@@ -1,4 +1,4 @@
-### Hi there 👋
+## Check out my Medium Articles:
 
 <!--
 **khusheekapoor/khusheekapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0" alt="Different Types of Data"> 
