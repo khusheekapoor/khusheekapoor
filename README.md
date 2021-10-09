@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0" alt="Different Types of Data"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0" alt="R Programming: A Case Study"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1" alt="Different Types of Data"> 
