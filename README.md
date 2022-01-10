@@ -1,3 +1,10 @@
+## Check out my Kaggle Account:
+
+<a href="https://www.kaggle.com/khusheekapoor">
+  <img src="https://user-images.githubusercontent.com/74901388/148767778-9ef755ca-4dce-45ec-a66f-a07337a9e5aa.png">
+</a>
+
+
 ## Check out my Medium Articles:
 
 <!--
