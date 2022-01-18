@@ -1,8 +1,9 @@
 ## Check out my Kaggle Account:
 
 <a href="https://www.kaggle.com/khusheekapoor">
-  <img src="https://user-images.githubusercontent.com/74901388/148767778-9ef755ca-4dce-45ec-a66f-a07337a9e5aa.png">
+  <img src="https://user-images.githubusercontent.com/74901388/149902834-b5665230-5e8d-4e60-b199-9f737bffa0ac.png">
 </a>
+
 
 
 ## Check out my Medium Articles:
