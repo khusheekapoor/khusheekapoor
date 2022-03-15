@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0" alt="Beginner's Guide to Hypothesis Testing"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/0" alt="Maths Hack: Easily Compute the Power of a Matrix using Diagonalization"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1" alt="Market Basket Analysis: Association Rule Mining"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/1" alt="Beginner's Guide to Hypothesis Testing"> 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/2" alt="R Programming: A Case Study"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khusheekapoor/2" alt="Market Basket Analysis: Association Rule Mining"> 
